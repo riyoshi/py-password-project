@@ -1,0 +1,1 @@
+#instead of giving the entire password length "10 characters", we split the uppercase and lowercase section evenly by a range of 5
